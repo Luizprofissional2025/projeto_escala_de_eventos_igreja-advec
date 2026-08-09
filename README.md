@@ -6,6 +6,10 @@ Aplicação web desenvolvida com **React** para organização e apresentação d
 
 O projeto faz parte da minha jornada de aprendizado em **Desenvolvimento Front-end**, colocando em prática conceitos de componentização, roteamento, gerenciamento de estado e responsividade.
 
+## 📸 Preview
+
+![GitHub_Perfil](./preview.png)
+
 ## ✨ Funcionalidades
 
 * 🏠 Página inicial com apresentação de conferências;
