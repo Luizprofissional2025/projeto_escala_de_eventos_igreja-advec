@@ -78,7 +78,7 @@ npm install
 ### 4. Execute o projeto
 
 ```bash
-npm run dev
+npm run build
 ```
 
 Após executar, o Vite disponibilizará o endereço local no terminal.
@@ -102,7 +102,7 @@ npm run build
 **Repositório:**
 https://github.com/Luizprofissional2025/projeto_escala_de_eventos_igreja-advec
 
-**Deploy:** Em desenvolvimento.
+**Deploy:**[ Em desenvolvimento](https://projeto-escala-de-eventos-igreja-ad-nu.vercel.app/).
 
 ---
 
