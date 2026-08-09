@@ -8,7 +8,7 @@ O projeto faz parte da minha jornada de aprendizado em **Desenvolvimento Front-e
 
 ## 📸 Preview
 
-![GitHub_Perfil](./preview.png)
+![Escala de Eventos Para Voluntarios](./src/pages/assets/preview.png)
 
 ## ✨ Funcionalidades
 
