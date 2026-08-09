@@ -1,4 +1,4 @@
-# ⛪ Escala de Eventos — Igreja ADVEC
+# ⛪ Escala de Eventos Para Voluntarios — Igreja ADVEC
 
 > 🚧 **Projeto em desenvolvimento**
 
